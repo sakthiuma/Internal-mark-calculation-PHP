@@ -6,3 +6,5 @@ Each teacher have their own database with columns denoting the various test take
 # Prerequsite
 1.Any webserver that runs the web application
 2.Database to hold the student values(MYSQL)
+
+![capture](https://user-images.githubusercontent.com/25689783/41513746-4fe0fc80-72be-11e8-8b13-ce18a8a0ef7d.PNG)
